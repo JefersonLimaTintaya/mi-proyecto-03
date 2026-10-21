@@ -1,6 +1,8 @@
 
 h1 {
   color: aqua;
+  border-radius: 30%;
+  background-color: black;
 }
 
 button { 
